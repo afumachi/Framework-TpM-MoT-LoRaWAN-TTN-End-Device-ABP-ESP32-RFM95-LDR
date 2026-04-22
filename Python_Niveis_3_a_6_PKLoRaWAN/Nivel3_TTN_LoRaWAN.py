@@ -28,9 +28,7 @@ import paho.mqtt.client as mqtt
 # CRIAR UMA API KEY DENTRO DA APLICAÇÃO
 # ----------------------------------------------------------
 TTN_APP_ID      = "aaf-pklora-ldr"           # ex. "my-ldr-app"
-# NNSXS.76WT74RMZMEGLTO6XGHVOTQUF5HIODA4FYSMPPA.ICWGCP6KTM37A4MT7QXOZJG4K33XJ2MQX6V4IJ4QXFE6BBSQGTAQ
-# TTN_API_KEY     = "NNSXS.76WT74RMZMEGLTO6XGHVOTQUF5HIODA4FYSMPPA.ICWGCP6KTM37A4MT7QXOZJG4K33XJ2MQX6V4IJ4QXFE6BBSQGTAQ"   # inicia com "NNSXS...."
-TTN_API_KEY     = "NNSXS.EPR6JLLON5IAC54RMBBTQILT2HJCIHITRXTPVQQ.2RJSW7SCU7AQ6XAS6GEYWG5MMMWS6L67FQDCBCVG25QARZPJAL2Q"   # inicia com "NNSXS...."
+TTN_API_KEY     = "NNSXS....."   # start with "NNSXS...." copy and paste from TTN API Key declared during it creation
 TTN_DEVICE_ID   = "aaf-pklora-ldr"      # O SEU End Device ID
 TTN_REGION      = "au1"          # ex. eu1, nam1, au1
 
