@@ -22,3 +22,14 @@ Level 4 - Nivel4.csv file. used to save all Uplinks data, as application (sensor
 Level 5 - Do the linear calculation of SNR aerage Data.
 
 Level 6 - Dashboards - User application and IoT manager control. Also GPS position from End Device declared in it firmware.
+
+Application Dashboard
+<img width="1366" height="728" alt="Captura de tela 2026-04-22 204032" src="https://github.com/user-attachments/assets/b71ef3cb-3450-4d7a-a588-dc66d50a7858" />
+
+
+Dashboard - LoRaWAN Network Management
+<img width="1366" height="728" alt="Captura de tela 2026-04-22 204047" src="https://github.com/user-attachments/assets/ffe622b8-4250-4bf0-a768-2d60aa1b07b5" />
+
+
+Dashboard - LoRaWAN End Device GPS Position
+<img width="1366" height="728" alt="Nivel6-pklorawan" src="https://github.com/user-attachments/assets/81cd0fe6-3f38-4317-bf64-a4d7ea6a36ff" />
